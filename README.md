@@ -92,3 +92,7 @@ To use the dataset, you can download the files from Kaggle and load them into yo
 ## References
 
 https://www.kaggle.com/datasets/aniruth100/baby-cry-detection
+
+## Image Downloaded References
+
+- [Pexels: Infant Cry](https://www.pexels.com)
