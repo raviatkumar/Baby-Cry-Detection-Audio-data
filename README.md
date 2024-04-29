@@ -46,17 +46,17 @@ The objective of this project is to build and train machine learning models to c
 The developed system will provide caregivers with valuable insights into the reasons behind a baby's cry, enabling them to respond promptly and appropriately to the baby's needs. This can lead to improved caregiving experiences and better infant care outcomes.
 
 
-##Summary:
+## Summary:
 
 In this project, we aimed to develop a robust system for automatically detecting the cause of a baby's cry to assist caregivers in responding effectively to the baby's needs. We utilized various machine learning algorithms, including decision trees, random forests, ensemble methods (AdaBoost, XGBoost, LGBM, CatBoost), logistic regression, and support vector machines (SVM), to classify baby cries into different categories such as hunger, discomfort, belly pain, and fatigue.
 
-##Performance Evaluation:
+## Performance Evaluation:
 
 After training and evaluating multiple models, we observed varying levels of performance across different algorithms. The decision tree model showed reasonably good performance, with balanced precision, recall, and F1-scores across different classes. Ensemble methods such as Random Forest, AdaBoost, XGBoost, LightGBM, and CatBoost consistently outperformed individual algorithms, demonstrating high precision, recall, F1-scores, and overall accuracy.
 
 Logistic regression and SVM performed relatively poorly compared to ensemble methods, with lower precision, recall, and F1-scores across most classes and lower overall accuracy.
 
-###Conclusion:
+## Conclusion:
 
 Based on the performance evaluation, the ensemble methods, particularly Random Forest, XGBoost, LightGBM, and CatBoost, emerged as the top-performing models for classifying baby cries into different categories. These models demonstrated high precision, recall, F1-scores, and overall accuracy, indicating their effectiveness in accurately predicting the cause of a baby's cry.
 
@@ -66,6 +66,6 @@ Logistic regression and SVM, on the other hand, performed relatively poorly comp
 
 Overall, the ensemble methods, particularly Random Forest, XGBoost, LightGBM, and CatBoost, are recommended for deployment in real-world applications for automatic baby cry detection and cause identification.
 
-##Best Performing Model:
+## Best Performing Model:
 
 Among the models evaluated, the Random Forest Classifier demonstrated the best performance, with high precision, recall, F1-scores, and overall accuracy across all classes. Therefore, the Random Forest Classifier is recommended as the best-performing model for the baby cry detection task in this project.
