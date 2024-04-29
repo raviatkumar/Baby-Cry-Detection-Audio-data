@@ -70,4 +70,25 @@ Overall, the ensemble methods, particularly Random Forest, XGBoost, LightGBM, an
 
 ## Best Performing Model:
 
-Among the models evaluated, the Random Forest Classifier demonstrated the best performance, with high precision, recall, F1-scores, and overall accuracy across all classes. Therefore, the Random Forest Classifier is recommended as the best-performing model for the baby cry detection task in this project.
+Among the models evaluated, the Random Forest Classifier demonstrated the best performance, with high precision, recall, F1-scores, and overall accuracy across all classes. Therefore, the Random Forest Classifier is recommended as the best-performing model for the baby cry detection task in this project
+
+
+## Baby Cry Detection Dataset
+
+The Baby Cry Detection dataset contains audio recordings of baby cries categorized into different classes based on the cause of the cry, such as hunger, discomfort, belly pain, and fatigue.
+
+### File Structure
+
+The dataset includes the following files:
+- `baby_cry_hunger.wav`: Audio recordings of baby cries due to hunger.
+- `baby_cry_discomfort.wav`: Audio recordings of baby cries due to discomfort.
+- `baby_cry_belly_pain.wav`: Audio recordings of baby cries due to belly pain.
+- `baby_cry_fatigue.wav`: Audio recordings of baby cries due to fatigue.
+
+### Dataset Usage
+
+To use the dataset, you can download the files from Kaggle and load them into your preferred programming environment. For example, you can use the `librosa` library in Python to load and analyze the audio recordings.
+
+## References
+
+https://www.kaggle.com/datasets/aniruth100/baby-cry-detection
