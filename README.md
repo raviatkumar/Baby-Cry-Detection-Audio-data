@@ -8,7 +8,7 @@
 
 **Problem Description:**
 
-The aim of this project is to develop a robust system for automatically detecting the cause of a baby's cry to assist caregivers in responding effectively to the baby's needs. The primary focus will be on identifying common reasons for a baby's cry, including hunger, discomfort, belly pain, and fatigue.
+The aim of this project is to develop a robust system for detecting the cause of a baby's cry to assist caregivers in responding effectively to the baby's needs. The primary focus will be on identifying common reasons for a baby's cry, including hunger, discomfort, belly pain, and fatigue.
 
 **Dataset:**
 
